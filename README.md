@@ -1,6 +1,6 @@
 Lucas, 26, Salvador, Bahia, Brasil
 
-Former Biologist. Web Developer. Focusing on FrontEnd Development.
+Web Developer. Focusing on FrontEnd Development.
 
 ### My Languages and frameworks :man_technologist: :
 
